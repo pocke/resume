@@ -22,7 +22,8 @@ Experience
 
 ### Cookpad Inc. (Apr. 2018)
 
-
+* Ruby on Rails、React Nativeを用いたクロスプラットホームモバイルアプリケーションの開発
+* 施策の企画から実装、評価まで全体的に担当
 
 ### Sider, Inc. (Oct. 2015 ~ Mar. 2018)
 
@@ -42,6 +43,13 @@ Experience
 
 Open Source Software
 ---
+
+* [RuboCop](https://github.com/rubocop-hq/rubocop)、[Reek](https://github.com/troessner/reek)、[Parser](https://github.com/whitequark/parser)などのプロジェクトでコミッタとして活動。
+  * OSSに対して責任をもってコードを書ける
+  * 多くのRubyの静的解析器の開発に関わっており、その分野に対して知見がある。
+* 自身がオーナーの、コマンドラインツールやWebアプリケーションなどのOSSを200以上公開。 [link](https://github.com/search?q=user%3Apocke+is%3Apublic)
+* GitHub上で公開されているOSSに対して600以上のPull Requestがマージされている。 [link](https://github.com/search?q=is%3Apr+author%3Apocke+is%3Amerged+-user%3Apocke+is%3Apublic)
+  * ライブラリのコードを理解し、問題があればそれを修正する能力があると言える。
 
 Publications
 ---
