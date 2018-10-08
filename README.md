@@ -14,4 +14,4 @@ Publications
 
 ### Presentations
 
-- [Full list]
+- [Full list](https://github.com/pocke/resume/blob/master/talks.md)
