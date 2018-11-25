@@ -20,7 +20,7 @@ Skills
 Experience
 ----
 
-### Cookpad Inc. (Apr. 2018)
+### Cookpad Inc. (Apr. 2018 ~ Nov. 2018)
 
 * Ruby on Rails、React Nativeを用いたクロスプラットホームモバイルアプリケーションの開発
 * 施策の企画から実装、評価まで全体的に担当
