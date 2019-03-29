@@ -1,6 +1,15 @@
 Talks
 ========
 
+2019
+----
+
+### Regression testing for RuboCop
+
+- Date: 2019-3-29
+- Slide: https://speakerdeck.com/pocke/regression-testing-for-rubocop
+- At: [Meguro.rb#25](https://megurorb.connpass.com/event/124735/)
+
 2018
 ---
 
