@@ -4,6 +4,24 @@ Talks
 2019
 ----
 
+### 10 min fizzbuzz
+
+- Date: 2019-5-30
+- Slide: https://github.com/pocke/10-min-fizzbuzz
+- At: [Meguro.rb#27](https://megurorb.connpass.com/event/132402/)
+
+### Self-hosting Whitespace
+
+- Date: 2019-5-24
+- Slide: https://speakerdeck.com/pocke/self-hosting-whitespace
+- At: [Roppongi.rb #10 "夜のLT会"](https://roppongirb.connpass.com/event/129603/)
+
+### Rinline: An inline expansion optimizer for Ruby
+
+- Date: 2019-5-22
+- Slide: https://speakerdeck.com/pocke/rinline-an-inline-expansion-optimizar-for-ruby
+- At: [RubyちこくKaigi](https://drecom.connpass.com/event/128107/)
+
 ### Regression testing for RuboCop
 
 - Date: 2019-3-29
