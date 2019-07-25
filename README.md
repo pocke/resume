@@ -10,8 +10,8 @@ Skills
 
 ### Webアプリケーション
 
-* Ruby on Railsを用いた開発を4年以上
-* TypeScript, Reactなどを主に使用
+* Ruby on Railsを用いた開発を5年以上
+* フロントエンドではTypeScript, Reactなどを主に使用
 
 ### Language
 
@@ -19,6 +19,10 @@ Skills
 
 Experience
 ----
+
+### Bit Journey, Inc. (Feb. 2019 ~ now)
+
+* TBD
 
 ### Cookpad Inc. (Apr. 2018 ~ Nov. 2018)
 
@@ -47,7 +51,7 @@ Open Source Software
 * [RuboCop](https://github.com/rubocop-hq/rubocop)、[Reek](https://github.com/troessner/reek)、[Parser](https://github.com/whitequark/parser)などのプロジェクトでコミッタとして活動。
   * OSSに対して責任をもってコードを書ける
   * 多くのRubyの静的解析器の開発に関わっており、その分野に対して知見がある。
-* 自身がオーナーの、コマンドラインツールやWebアプリケーションなどのOSSを200以上公開。 [link](https://github.com/search?q=user%3Apocke+is%3Apublic)
+* 自身がオーナーの、コマンドラインツールやWebアプリケーションなどのOSSを250以上公開。 [link](https://github.com/search?q=user%3Apocke+is%3Apublic)
 * GitHub上で公開されているOSSに対して600以上のPull Requestがマージされている。 [link](https://github.com/search?q=is%3Apr+author%3Apocke+is%3Amerged+-user%3Apocke+is%3Apublic)
   * ライブラリのコードを理解し、問題があればそれを修正する能力があると言える。
 
