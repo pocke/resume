@@ -82,3 +82,12 @@ Publications
 - VimConf 2017 [The new syntax highlighter for Vim](https://speakerdeck.com/pocke/the-new-syntax-highlighter-for-vim)
 - RubyKaigi 2018 [A parser based syntax highlighter](https://speakerdeck.com/pocke/a-parser-based-syntax-highlighter)
 - [Full list](https://github.com/pocke/resume/blob/master/talks.md)
+
+Link to Portfolio as a Service
+---
+
+You can find scored and aggregated my achievements.
+
+* https://findy-code.io/share_profiles/zSqYutgMgu_WX
+* https://lapras.com/public/JHEP0O6
+* https://portfolio.forkwell.com/@pocke 
