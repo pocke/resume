@@ -4,6 +4,18 @@ Talks
 2019
 ----
 
+### Suppress Warnings
+
+- Date: 2019-9-15
+- Slide: https://speakerdeck.com/pocke/suppress-warning
+- At: [Osaka RubyKaigi 02](https://regional.rubykaigi.org/osaka02/)
+
+### How about Ovto?
+
+- Date: 2019-7-31
+- Slide: https://speakerdeck.com/pocke/how-about-ovto
+- At: [Meguro.rb#29](https://megurorb.connpass.com/event/140137/)
+
 ### 10 min fizzbuzz
 
 - Date: 2019-5-30
