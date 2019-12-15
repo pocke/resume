@@ -4,6 +4,18 @@ Talks
 2019
 ----
 
+### Regression Test for RuboCop
+
+- Date: 2019-12-14
+- Slide: https://speakerdeck.com/pocke/regression-test-for-rubocop
+- At: [平成Ruby会議 01](https://heiseirb.github.io/kaigi01/)
+
+### ruby-jp
+
+- Date: 2019-11-30
+- Slide: https://speakerdeck.com/pocke/ruby-jp
+- At: [鹿児島Ruby会議01](https://k-ruby.github.io/kagoshima-rubykaigi01/)
+
 ### Suppress Warnings
 
 - Date: 2019-9-15
