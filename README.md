@@ -10,7 +10,7 @@ Skills
 
 ### Webアプリケーション
 
-* Ruby on Railsを用いた開発を5年以上
+* Ruby on Railsを用いた開発を2014年ごろから継続
 * フロントエンドではTypeScript, Reactなどを主に使用
 
 ### Language
@@ -36,7 +36,7 @@ Experience
   * Ruby on Railsを用いて、バックエンドを中心に機能追加やバグの修正を行っていた。
 * 静的解析ツールの開発
   * 静的解析ツールのバグの修正や機能の追加などを行っていた。
-  * Siderが提供する静的解析ツールのうち、10を超える解析器に対して何らかのコミットを行っている。
+  * Siderが提供する静的解析ツールのうち、10を超える解析器に対して何らかのコミットを行っていた。
 
 2018年4月からは同社の技術顧問に就任。
 
@@ -51,6 +51,7 @@ Open Source Software
 * [RuboCop](https://github.com/rubocop-hq/rubocop)、[Reek](https://github.com/troessner/reek)、[Parser](https://github.com/whitequark/parser)などのプロジェクトでコミッタとして活動。
   * OSSに対して責任をもってコードを書ける
   * 多くのRubyの静的解析器の開発に関わっており、その分野に対して知見がある。
+* Rubyリファレンスマニュアル (通称るりま) 刷新計画のチームメンバーとして参加
 * 自身がオーナーの、コマンドラインツールやWebアプリケーションなどのOSSを250以上公開。 [link](https://github.com/search?q=user%3Apocke+is%3Apublic)
 * GitHub上で公開されているOSSに対して800以上のPull Requestがマージされている。 [link](https://github.com/search?q=is%3Apr+author%3Apocke+is%3Amerged+-user%3Apocke+is%3Apublic)
   * ライブラリのコードを理解し、問題があればそれを修正する能力があると言える。
