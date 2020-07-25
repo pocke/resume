@@ -1,6 +1,19 @@
 Talks
 ========
 
+### kwargs warning → Sentry
+
+- Date: 2020-07-25
+- Slide: https://docs.google.com/presentation/d/1i9DtFxDJlEqArtEuGQBP44K7rbQyIz-d74g3590NF-g/edit?usp=sharing
+- At: [Kaigi on Rails new](https://kaigionrails.doorkeeper.jp/events/109773)
+
+### Ruboty and SKI
+
+- Date: 2020-01-31
+- Slide: https://speakerdeck.com/pocke/ruboty-and-ski
+- At: [Meguro.rb #30](https://megurorb.connpass.com/event/164225/)
+
+
 2019
 ----
 
