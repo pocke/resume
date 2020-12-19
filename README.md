@@ -53,7 +53,7 @@ Open Source Software
   * 多くのRubyの静的解析器の開発に関わっており、その分野に対して知見がある。
 * Rubyリファレンスマニュアル (通称るりま) 刷新計画のチームメンバーとして参加
 * 自身がオーナーの、コマンドラインツールやWebアプリケーションなどのOSSを250以上公開。 [link](https://github.com/search?q=user%3Apocke+is%3Apublic)
-* GitHub上で公開されているOSSに対して800以上のPull Requestがマージされている。 [link](https://github.com/search?q=is%3Apr+author%3Apocke+is%3Amerged+-user%3Apocke+is%3Apublic)
+* GitHub上で公開されているOSSに対して1000以上のPull Requestがマージされている。 [link](https://github.com/search?q=is%3Apr+author%3Apocke+is%3Amerged+-user%3Apocke+is%3Apublic)
   * ライブラリのコードを理解し、問題があればそれを修正する能力があると言える。
 
 Publications
