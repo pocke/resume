@@ -48,7 +48,7 @@ Experience
 Open Source Software
 ---
 
-* [RuboCop](https://github.com/rubocop-hq/rubocop)、[Reek](https://github.com/troessner/reek)、[Parser](https://github.com/whitequark/parser)などのプロジェクトでコミッタとして活動。
+* [RBS](https://github.com/ruby/rbs)、[RuboCop](https://github.com/rubocop-hq/rubocop)、[Reek](https://github.com/troessner/reek)、[Parser](https://github.com/whitequark/parser)などのプロジェクトでコミッタとして活動。
   * OSSに対して責任をもってコードを書ける
   * 多くのRubyの静的解析器の開発に関わっており、その分野に対して知見がある。
 * Rubyリファレンスマニュアル (通称るりま) 刷新計画のチームメンバーとして参加
