@@ -90,5 +90,5 @@ Link to Portfolio as a Service
 You can find scored and aggregated my achievements.
 
 * https://findy-code.io/share_profiles/zSqYutgMgu_WX
-* https://lapras.com/public/JHEP0O6
+* https://lapras.com/public/pocke
 * https://portfolio.forkwell.com/@pocke 
