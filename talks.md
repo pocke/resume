@@ -1,6 +1,20 @@
 Talks
 ========
 
+2023
+---
+
+### 外部コマンド実行入門
+
+- Date: 2023-02-18
+- Slides: TODO
+- Document: https://drive.google.com/file/d/1X8dD9Sy5jLxym_UBuFTr9TVXs1ghIia2/view?usp=sharing
+- At: [福岡Rubyist会議03](https://regional.rubykaigi.org/fukuoka03/)
+
+
+2020
+---
+
 ### kwargs warning → Sentry
 
 - Date: 2020-07-25
