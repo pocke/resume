@@ -222,6 +222,7 @@ Talks
 
 - Date: 2018-3-10
 - Slide: https://speakerdeck.com/pocke/a-ripper-based-syntax-highlighter
+- Video: https://www.youtube.com/watch?v=cfq2n7E-VOQ
 - Blog: https://medium.com/@pocke/沖縄ruby会議02で-syntax-highlighterについて話した-okrk02-935bd9105e2d
 - At: [沖縄Ruby会議02](http://ruby.okinawa/okrk02/)
 
