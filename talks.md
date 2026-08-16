@@ -173,12 +173,14 @@ Talks
 
 - Date: 2019-5-30
 - Slide: https://github.com/pocke/10-min-fizzbuzz
+- Blog: https://pocke.hatenablog.com/entry/2019/05/30/224938
 - At: [Meguro.rb#27](https://megurorb.connpass.com/event/132402/)
 
 ### Self-hosting Whitespace
 
 - Date: 2019-5-24
 - Slide: https://speakerdeck.com/pocke/self-hosting-whitespace
+- Blog: https://pocke.hatenablog.com/entry/2019/05/24/232217
 - At: [Roppongi.rb #10 "夜のLT会"](https://roppongirb.connpass.com/event/129603/)
 
 ### Rinline: An inline expansion optimizer for Ruby
@@ -289,6 +291,7 @@ Talks
 
 - Date: 2017-3-11
 - Slide: http://qiita.com/pocke/items/71dc9c6a9ea33dd95aac
+- Blog: https://pocke.hatenablog.com/entry/2017/03/12/225011
 - At: [Battle Conference U30 - connpass](https://battleconference-u30.connpass.com/event/49985/)
 
 ### 実用的な RuboCop の話
