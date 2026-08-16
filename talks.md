@@ -60,6 +60,13 @@ Talks
 2023
 ---
 
+### RBS Tutorial
+
+- Date: 2023-11-09
+- Slide: https://2023.rubyworld-conf.org/files/a-2-1.pdf
+- Video: https://youtu.be/dvmYwdXwRxo
+- At: [RubyWorld Conference 2023](https://2023.rubyworld-conf.org/ja/program/day1/a-2-1/)
+
 ### Active Record Query Quiz
 
 - Date: 2023-10-27
