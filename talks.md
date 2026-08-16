@@ -205,6 +205,12 @@ Talks
 2018
 ---
 
+### Elegant collaboration of Vim and Ruby
+
+- Date: 2018-10-31
+- Slide: NONE
+- At: [.vimconf.swp 2018](https://vimconf.connpass.com/event/102292/)
+
 ### A parser based syntax highlighter
 
 - Date: 2018-5-31
