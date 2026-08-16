@@ -1,8 +1,68 @@
 Talks
 ========
 
+2026
+---
+
+### New "Type" system on PicoRuby
+
+- Date: 2026-05-30
+- Slide: https://speakerdeck.com/pocke/new-type-system-on-picoruby
+- At: [関ケ原Ruby会議01](https://regional.rubykaigi.org/sekigahara01/)
+
+
+2025
+---
+
+### プログラミングで遊ぶ
+
+- Date: 2025-10-25
+- Slide: https://speakerdeck.com/pocke/puroguramingudeyou-bu
+- At: [【Okayama.なんか #6】Okayama.Geek](https://okayama-nanka.connpass.com/event/364324/)
+
+### Witchcraft for Memory
+
+- Date: 2025-06-28
+- Slide: https://speakerdeck.com/pocke/witchcraft-for-memory
+- At: [関西Ruby会議08](https://regional.rubykaigi.org/kansai08/)
+
+
+2024
+---
+
+### The path to memory reduction in RBS
+
+- Date: 2024-10-15
+- Slide: https://speakerdeck.com/pocke/the-path-to-memory-reduction-in-rbs
+- At: [Money Forward Tech LT大会 vol.2](https://moneyforward.connpass.com/event/331077/)
+
+### RBSのメモリ使用量改善への道
+
+- Date: 2024-07-27
+- Slide: https://speakerdeck.com/pocke/rbsnomemorishi-yong-liang-gai-shan-henodao
+- At: [第23回 岡山Ruby, Ruby on Rails勉強会](https://okaruby.connpass.com/event/321654/)
+
+### Community-driven RBS repository
+
+- Date: 2024-05-16
+- Slide: https://speakerdeck.com/pocke/community-driven-rbs-repository
+- At: [RubyKaigi 2024](https://rubykaigi.org/2024/presentations/p_ck_.html)
+
+
 2023
 ---
+
+### Active Record Query Quiz
+
+- Date: 2023-10-27
+- Slide: https://speakerdeck.com/pocke/active-record-query-quiz
+- At: [Kaigi on Rails 2023](https://kaigionrails.org/2023/talks/pocke/)
+
+### Let's write RBS!
+
+- Date: 2023-05-13
+- Slide: https://speakerdeck.com/pocke/lets-write-rbs
+- At: [RubyKaigi 2023](https://rubykaigi.org/2023/presentations/p_ck_.html)
 
 ### 外部コマンド実行入門
 
@@ -10,6 +70,27 @@ Talks
 - Slides: TODO
 - Document: https://drive.google.com/file/d/1X8dD9Sy5jLxym_UBuFTr9TVXs1ghIia2/view?usp=sharing
 - At: [福岡Rubyist会議03](https://regional.rubykaigi.org/fukuoka03/)
+
+
+2022
+---
+
+### RBS and Rails, Present and Future
+
+- Date: 2022-03-25
+- Slide: https://speakerdeck.com/pocke/rbs-and-rails-present-and-future
+- At: [銀座Rails#43](https://ginza-rails.connpass.com/event/242685/)
+
+
+2021
+---
+
+### The newsletter of RBS updates
+
+- Date: 2021-09-10
+- Slide: https://speakerdeck.com/pocke/the-newsletter-of-rbs-updates
+- Video: https://www.youtube.com/watch?v=AwuSHC6j-48
+- At: [RubyKaigi Takeout 2021](https://rubykaigi.org/2021-takeout/presentations/p_ck_.html)
 
 
 2020
