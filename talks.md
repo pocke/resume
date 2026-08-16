@@ -4,6 +4,12 @@ Talks
 2026
 ---
 
+### 自分だけのRubyを1から作る
+
+- Date: 2026-06-06
+- Slide: https://me.pocke.me/make-your-own-ruby/
+- At: [松江Ruby会議12](https://matsue.rubyist.net/matrk12/)
+
 ### New "Type" system on PicoRuby
 
 - Date: 2026-05-30
@@ -84,6 +90,13 @@ Talks
 
 2021
 ---
+
+### Cache on Rails
+
+- Date: 2021-10-23
+- Slide: https://docs.google.com/presentation/d/e/2PACX-1vR0xHJzkJ6kW26mROTebtOBGFHbMMEi9zFg69BOeSSZkDMqR5ONoMjZTjLeCPBpJH-yWKumEVuSkggR/pub
+- Video: https://www.youtube.com/watch?v=CZOXtWvo7jg
+- At: [Kaigi on Rails 2021](https://kaigionrails.org/2021/talks/pocke/)
 
 ### The newsletter of RBS updates
 
