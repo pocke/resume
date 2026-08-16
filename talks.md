@@ -75,6 +75,13 @@ Talks
 - Blog: https://pocke.hatenablog.com/entry/2023/10/28/142700
 - At: [Kaigi on Rails 2023](https://kaigionrails.org/2023/talks/pocke/)
 
+### Contributing to OSS from RBS
+
+- Date: 2023-05-25
+- Slide: NONE
+- Video: https://www.youtube.com/watch?v=WBOAv7tZVNU
+- At: [OSSへのコントリビュート - Techmee vol.7](https://timeedev.connpass.com/event/279568/)
+
 ### Let's write RBS!
 
 - Date: 2023-05-13
