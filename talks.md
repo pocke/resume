@@ -24,6 +24,7 @@ Talks
 
 - Date: 2025-10-25
 - Slide: https://speakerdeck.com/pocke/puroguramingudeyou-bu
+- Video: https://www.youtube.com/watch?v=cRCDyb0OD1Y
 - At: [【Okayama.なんか #6】Okayama.Geek](https://okayama-nanka.connpass.com/event/364324/)
 
 ### Witchcraft for Memory
@@ -52,6 +53,7 @@ Talks
 
 - Date: 2024-05-16
 - Slide: https://speakerdeck.com/pocke/community-driven-rbs-repository
+- Video: https://www.youtube.com/watch?v=r31gVDlIJhc
 - At: [RubyKaigi 2024](https://rubykaigi.org/2024/presentations/p_ck_.html)
 
 
@@ -62,19 +64,24 @@ Talks
 
 - Date: 2023-10-27
 - Slide: https://speakerdeck.com/pocke/active-record-query-quiz
+- Video: https://www.youtube.com/watch?v=f4yuWOXlGCo
+- Blog: https://pocke.hatenablog.com/entry/2023/10/28/142700
 - At: [Kaigi on Rails 2023](https://kaigionrails.org/2023/talks/pocke/)
 
 ### Let's write RBS!
 
 - Date: 2023-05-13
 - Slide: https://speakerdeck.com/pocke/lets-write-rbs
+- Video: https://www.youtube.com/watch?v=ngoXe-6BCXU
+- Blog: https://pocke.hatenablog.com/entry/2023/05/08/184814
 - At: [RubyKaigi 2023](https://rubykaigi.org/2023/presentations/p_ck_.html)
 
 ### 外部コマンド実行入門
 
 - Date: 2023-02-18
-- Slides: TODO
+- Slide: https://drive.google.com/file/d/17KtDHiF5Fbp79Zw7WgrGuIgBhD2X4Mrj/view
 - Document: https://drive.google.com/file/d/1X8dD9Sy5jLxym_UBuFTr9TVXs1ghIia2/view?usp=sharing
+- Blog: https://pocke.hatenablog.com/entry/2023/02/19/004700
 - At: [福岡Rubyist会議03](https://regional.rubykaigi.org/fukuoka03/)
 
 
@@ -96,6 +103,7 @@ Talks
 - Date: 2021-10-23
 - Slide: https://docs.google.com/presentation/d/e/2PACX-1vR0xHJzkJ6kW26mROTebtOBGFHbMMEi9zFg69BOeSSZkDMqR5ONoMjZTjLeCPBpJH-yWKumEVuSkggR/pub
 - Video: https://www.youtube.com/watch?v=CZOXtWvo7jg
+- Blog: https://pocke.hatenablog.com/entry/2021/10/27/010938
 - At: [Kaigi on Rails 2021](https://kaigionrails.org/2021/talks/pocke/)
 
 ### The newsletter of RBS updates
@@ -103,6 +111,7 @@ Talks
 - Date: 2021-09-10
 - Slide: https://speakerdeck.com/pocke/the-newsletter-of-rbs-updates
 - Video: https://www.youtube.com/watch?v=AwuSHC6j-48
+- Blog: https://pocke.hatenablog.com/entry/2021/09/10/211453
 - At: [RubyKaigi Takeout 2021](https://rubykaigi.org/2021-takeout/presentations/p_ck_.html)
 
 
@@ -113,6 +122,7 @@ Talks
 
 - Date: 2020-07-25
 - Slide: https://docs.google.com/presentation/d/1i9DtFxDJlEqArtEuGQBP44K7rbQyIz-d74g3590NF-g/edit?usp=sharing
+- Video: https://youtu.be/ZohWUN4qZ8E?t=20m50s
 - At: [Kaigi on Rails new](https://kaigionrails.doorkeeper.jp/events/109773)
 
 ### Ruboty and SKI
@@ -129,18 +139,21 @@ Talks
 
 - Date: 2019-12-14
 - Slide: https://speakerdeck.com/pocke/regression-test-for-rubocop
+- Blog: https://pocke.hatenablog.com/entry/2019/12/15/191326
 - At: [平成Ruby会議 01](https://heiseirb.github.io/kaigi01/)
 
 ### ruby-jp
 
 - Date: 2019-11-30
 - Slide: https://speakerdeck.com/pocke/ruby-jp
+- Blog: https://pocke.hatenablog.com/entry/2019/12/04/005440
 - At: [鹿児島Ruby会議01](https://k-ruby.github.io/kagoshima-rubykaigi01/)
 
 ### Suppress Warnings
 
 - Date: 2019-9-15
 - Slide: https://speakerdeck.com/pocke/suppress-warning
+- Blog: https://pocke.hatenablog.com/entry/2019/09/15/235445
 - At: [Osaka RubyKaigi 02](https://regional.rubykaigi.org/osaka02/)
 
 ### How about Ovto?
@@ -180,6 +193,7 @@ Talks
 
 - Date: 2018-5-31
 - Slide: https://speakerdeck.com/pocke/a-parser-based-syntax-highlighter
+- Video: https://www.youtube.com/watch?v=8tarr2k0kMI
 - At: [RubyKaigi 2018](https://rubykaigi.org/2018/presentations/p_ck_.html#may31)
 
 ### A Ripper based syntax highlighter
@@ -209,6 +223,7 @@ Talks
 
 - Date: 2017-11-4
 - Slide: https://speakerdeck.com/pocke/the-new-syntax-highlighter-for-vim
+- Video: https://www.youtube.com/watch?v=T7b-YnRLcok
 - Blog: http://pocke.hatenablog.com/entry/2017/11/04/221926
 - At: [VimConf 2017](http://vimconf.vim-jp.org/2017/)
 
@@ -363,6 +378,7 @@ Talks
 
 - Date: 2015-11-07
 - Slide: http://me.pocke.me/slide-start-vue-1.0/#1
+- Blog: https://pocke.hatenablog.com/entry/2015/11/08/112027
 - At: [第10回【フリースタイル】もくもく会【学生歓迎！】 - connpass](http://freestyle-mokumoku.connpass.com/event/21612/)
 
 
@@ -370,6 +386,7 @@ Talks
 
 - Date: 2015-10-25
 - Slide: http://me.pocke.me/slide-level_up_vim/#1
+- Blog: https://pocke.hatenablog.com/entry/2015/10/25/195924
 - At: [Dentoo.LT #12 : ATND](https://atnd.org/events/70881)
 
 ### Remote Utility Tool Lemonade
