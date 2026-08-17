@@ -163,6 +163,13 @@ Talks
 - Blog: https://pocke.hatenablog.com/entry/2019/12/04/005440
 - At: [鹿児島Ruby会議01](https://k-ruby.github.io/kagoshima-rubykaigi01/)
 
+### 自分のvimrcについて
+
+- Date: 2019-9-26
+- Slide: NONE
+- Video: https://www.youtube.com/watch?v=uLnPAdZv6bU
+- At: [ゴリラ.vim #8](https://gorillavim.connpass.com/event/146919/)
+
 ### Suppress Warnings
 
 - Date: 2019-9-15
