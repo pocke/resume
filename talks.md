@@ -60,6 +60,13 @@ Talks
 2023
 ---
 
+### RBS Tutorial
+
+- Date: 2023-11-09
+- Slide: https://2023.rubyworld-conf.org/files/a-2-1.pdf
+- Video: https://youtu.be/dvmYwdXwRxo
+- At: [RubyWorld Conference 2023](https://2023.rubyworld-conf.org/ja/program/day1/a-2-1/)
+
 ### Active Record Query Quiz
 
 - Date: 2023-10-27
@@ -67,6 +74,13 @@ Talks
 - Video: https://www.youtube.com/watch?v=f4yuWOXlGCo
 - Blog: https://pocke.hatenablog.com/entry/2023/10/28/142700
 - At: [Kaigi on Rails 2023](https://kaigionrails.org/2023/talks/pocke/)
+
+### Contributing to OSS from RBS
+
+- Date: 2023-05-25
+- Slide: NONE
+- Video: https://www.youtube.com/watch?v=WBOAv7tZVNU
+- At: [OSSへのコントリビュート - Techmee vol.7](https://timeedev.connpass.com/event/279568/)
 
 ### Let's write RBS!
 
@@ -149,6 +163,13 @@ Talks
 - Blog: https://pocke.hatenablog.com/entry/2019/12/04/005440
 - At: [鹿児島Ruby会議01](https://k-ruby.github.io/kagoshima-rubykaigi01/)
 
+### 自分のvimrcについて
+
+- Date: 2019-9-26
+- Slide: NONE
+- Video: https://www.youtube.com/watch?v=uLnPAdZv6bU
+- At: [ゴリラ.vim #8](https://gorillavim.connpass.com/event/146919/)
+
 ### Suppress Warnings
 
 - Date: 2019-9-15
@@ -166,12 +187,14 @@ Talks
 
 - Date: 2019-5-30
 - Slide: https://github.com/pocke/10-min-fizzbuzz
+- Blog: https://pocke.hatenablog.com/entry/2019/05/30/224938
 - At: [Meguro.rb#27](https://megurorb.connpass.com/event/132402/)
 
 ### Self-hosting Whitespace
 
 - Date: 2019-5-24
 - Slide: https://speakerdeck.com/pocke/self-hosting-whitespace
+- Blog: https://pocke.hatenablog.com/entry/2019/05/24/232217
 - At: [Roppongi.rb #10 "夜のLT会"](https://roppongirb.connpass.com/event/129603/)
 
 ### Rinline: An inline expansion optimizer for Ruby
@@ -189,6 +212,12 @@ Talks
 2018
 ---
 
+### Elegant collaboration of Vim and Ruby
+
+- Date: 2018-10-31
+- Slide: NONE
+- At: [.vimconf.swp 2018](https://vimconf.connpass.com/event/102292/)
+
 ### A parser based syntax highlighter
 
 - Date: 2018-5-31
@@ -200,6 +229,7 @@ Talks
 
 - Date: 2018-3-10
 - Slide: https://speakerdeck.com/pocke/a-ripper-based-syntax-highlighter
+- Video: https://www.youtube.com/watch?v=cfq2n7E-VOQ
 - Blog: https://medium.com/@pocke/沖縄ruby会議02で-syntax-highlighterについて話した-okrk02-935bd9105e2d
 - At: [沖縄Ruby会議02](http://ruby.okinawa/okrk02/)
 
@@ -282,6 +312,7 @@ Talks
 
 - Date: 2017-3-11
 - Slide: http://qiita.com/pocke/items/71dc9c6a9ea33dd95aac
+- Blog: https://pocke.hatenablog.com/entry/2017/03/12/225011
 - At: [Battle Conference U30 - connpass](https://battleconference-u30.connpass.com/event/49985/)
 
 ### 実用的な RuboCop の話
